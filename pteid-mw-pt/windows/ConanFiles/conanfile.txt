@@ -1,0 +1,15 @@
+[requires]
+openssl/1.1.1f
+xerces-c/3.2.3
+libcurl/7.69.1
+zlib/1.2.11
+libzip/1.5.1@bincrafters/stable
+libpng/1.6.37
+openjpeg/2.3.1
+
+[generators]
+deploy
+
+[options]
+*:shared=True
+libzip:with_bzip2=False
