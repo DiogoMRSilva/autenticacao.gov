@@ -6,7 +6,7 @@
 #define BASE_VERSION1            3 
 #define BASE_VERSION2            2 
 #define BASE_VERSION3            0 
-#define REVISION_NUM             3925
-#define REVISION_NUM_STRING      "3925" 
-#define REVISION_HASH_STRING     "4c09ce1a" 
+#define REVISION_NUM             3967 
+#define REVISION_NUM_STRING      "3967" 
+#define REVISION_HASH_STRING     "033133da" 
 #endif //__RELEASE_DATA_H__ 

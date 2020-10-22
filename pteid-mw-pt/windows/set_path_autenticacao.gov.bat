@@ -14,7 +14,7 @@
 @set PTEID_DIR_LIBZIP=E:\32\libzip
 @set PTEID_DIR_LIBPNG=E:\32\libpng
 @set PTEID_DIR_OPENJPEG=E:\32\openjpeg
-@set PTEID_DIR_JPEG=E:\32\poppler-0.87
+@set PTEID_DIR_JPEG=C:\Program Files (x86)\GnuWin32\bin
 
 :: Compiled / external libs x64
 ::==============================
@@ -28,7 +28,7 @@
 @set PTEID_DIR_LIBZIP_X64=E:\64\libzip
 @set PTEID_DIR_LIBPNG_X64=E:\64\libpng
 @set PTEID_DIR_OPENJPEG_X64=E:\64\openjpeg
-@set PTEID_DIR_JPEG_X64=E:\64\poppler-0.87
+@set PTEID_DIR_JPEG_X64=C:\Program Files (x86)\GnuWin32\bin
 
 :: Tools
 ::======
@@ -37,7 +37,7 @@
 @set PTEID_DIR_VS=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community
 @set PTEID_DIR_DOXYGEN=C:\Program Files\doxygen\bin
 @set PTEID_DIR_SWIG=E:\swigwin-4.0.1
-@set PTEID_DIR_JDK=C:\Program Files\Java\jdk1.8.0_231
+@set PTEID_DIR_JDK=C:\Program Files\AdoptOpenJDK\jdk-8.0.222.10-hotspot
 @set PTEID_DIR_WIX=C:\Program Files (x86)\WiX Toolset v3.11
 @set PTEID_DIR_MSM=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\MergeModules
 
